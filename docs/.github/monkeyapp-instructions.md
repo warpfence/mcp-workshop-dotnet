@@ -2,7 +2,7 @@ This project is .NET 9 and uses C# 13.
 
 Make sure all code generated is inside of the MyMonkeyApp project, which may be a subfolder inside of the main folder.
 
-It is on GitHub at https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+It is on GitHub at https://github.com/warpfence/mcp-workshop-docnet
 
 ## Project Context
 This is a console application that manages monkey species data and integrates with GitHub through MCP servers.
